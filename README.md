@@ -1,4 +1,4 @@
-ci bot, created and ran by [@kcomain](//github.com/kcomain)
+ci bot, created and ran by [@soopyc](//github.com/soopyc)
 
 signature key:
 ```
